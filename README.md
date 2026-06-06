@@ -7,6 +7,10 @@ Cute Auto Karyotype is a user-friendly software developed for chromosome detecti
 
 The software was designed to simplify routine cytogenetic workflows by providing automatic chromosome detection, manual editing tools, chromosome numbering, crop refinement, and final karyotype board generation within a single application.
 
+<img width="975" height="528" alt="cover1" src="https://github.com/user-attachments/assets/380e2d0f-26f0-4e25-8dc7-79b6ae7ae0dd" />
+
+<img width="422" height="316" alt="cover2" src="https://github.com/user-attachments/assets/8bf2b51b-f367-4ade-9016-d3512c5455ff" />
+
 ---
 
 ## Features
