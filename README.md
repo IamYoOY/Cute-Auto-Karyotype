@@ -134,7 +134,7 @@ Software citation information will be provided in future releases and publicatio
 
 ## Developer
 
-Praopilas Pakdeedindan
+Praopilas Phakdeedindan
 
 Department of Animal Husbandry
 Faculty of Veterinary Science
